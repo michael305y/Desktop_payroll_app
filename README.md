@@ -1,4 +1,4 @@
-# Desktop_payroll_app
+# PAYROLL MANAGEMENT DESKTOP APPLICATION
 A simple Payroll Management Desktop App  to manage Salary Details of employees for an Institution.
 Users can register employees, Create custom Designations, Create payrolls  for each month.
 Generate custom Payslips which are ID protected requiring users to use their ID to view their payslips.
